@@ -6,8 +6,7 @@ If you become a millionaire, don't forget who gave you this script :)
 
 ## ATTENTION - you use the script at your own risk, if you do not understand what is happening below, do not run it.
  ☠︎⚠️👾🤖☠️🙈🙉🙊🧛
-## UWAGA - używasz tego skryptu na własną odpowiedzzialność, ie rozumiesz co się dziej niżej nie uruchamiaj go - Zachowaj Ostrożność
-
+## UWAGA - używasz tego skryptu na własną odpowiedzialność, nie rozumiesz co się dziej niżej - nie uruchamiaj go - Zachowaj Ostrożność
 
 
 ## Installation
@@ -24,24 +23,23 @@ npm install dotenv
 ```
 
 🇵🇱
-Poleskie instrukcje instalacji potrzebych skaldników 
+Poleskie instrukcje instalacji potrzebych skałdników tzn git, npm, node  
 
-# Instalacja Git
+Instalacja Git: 
 https://www.atlassian.com/pl/git/tutorials/install-git
 
-Instalacja Node,js 
+Instalacja Node,js:
 https://gist.github.com/zbicin/0f1e360369b6694775dfcd52aa32fe92
 
-Instalacja NPM lub PNPM
+Instalacja NPM lub PNPM: 
 https://boringowl.io/tag/npm
 
-Ja używam PNPM
+Ja używam PNPM: 
 https://pnpm.io/installation
 
 
 
-
-# Referal to: 
+# Referal to:⤵️⤵️ 
 https://www.bybit.com/invite?ref=G8NARR
 
 # Test
